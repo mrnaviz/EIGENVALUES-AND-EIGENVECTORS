@@ -16,6 +16,9 @@ ENd the program
 
 ## Program:
 ```
+#Program to find the inverse of a matrix.
+#Developed by: NAVEEN KUMAR.B
+#RegisterNumber:212222230091
 import numpy as np
 A=([[2,2],[1,3]])
 evalues,evector=np.linalg.eig(A)
